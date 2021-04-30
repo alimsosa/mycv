@@ -36,11 +36,11 @@ table{
   height: 20px;
 }
 .top-container{
-  position:relative;
-  padding-top: 50px;
-  background-image: url("https://images.hdqwalls.com/download/planets-vector-10k-j4-1336x768.jpg");
-  height: 700px;
-  background-position: center center;
+  width: 100vw;
+  height: 100vh;
+  background: url("https://images.hdqwalls.com/download/planets-vector-10k-j4-1336x768.jpg");
+  background-size: cover;
+  background-position: center, center;
 }
 .middle-container{
 
