@@ -41,6 +41,13 @@ table{
   background-image: url("https://images.hdqwalls.com/download/planets-vector-10k-j4-1336x768.jpg");
   height: 700px;
 }
+
+@media screen and (min-width : 320px) and (max-width : 480px)  {
+  .top-container {
+    background-size: cover;
+    background-attachment:fixed }
+}
+
 .middle-container{
 
 
